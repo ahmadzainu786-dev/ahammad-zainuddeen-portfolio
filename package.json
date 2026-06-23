@@ -1,0 +1,17 @@
+{
+  "name": "ahammad-zainuddeen-portfolio",
+  "version": "1.0.0",
+  "description": "Premium Business Consultant & GCC Market Specialist Portfolio",
+  "main": "index.html",
+  "scripts": {
+    "dev": "npx serve -l 3080"
+  },
+  "keywords": [
+    "portfolio",
+    "consultant",
+    "gcc",
+    "saudi-arabia"
+  ],
+  "author": "Ahammad Zainuddeen",
+  "license": "ISC"
+}
